@@ -2,7 +2,7 @@
 
 A simple project demonstrating GitHub Actions deployment automation.
 
-**Project URL:** https://matchalatte2609.github.io/gh-deployment-workflow/
+**Project URL:** https://roadmap.sh/projects/github-actions-deployment-workflow
 
 ## Structure
 
